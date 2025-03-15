@@ -20,11 +20,11 @@ Une application React permettant de rechercher des films et de suivre les tendan
     git clone https://github.com/aminelns260/movie-search-app.git  
     cd movie-search-app
 
-2. **Installer les dépendances** 
+2. **Installer les dépendances**   
     npm install
 
-3. **Lancer le projet en mode développement** 
+3. **Lancer le projet en mode développement**  
     npm run dev
 
-4. **Build (optionnel pour production)**
+4. **Build (optionnel pour production)**  
     npm run build
