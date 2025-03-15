@@ -17,7 +17,7 @@ Une application React permettant de rechercher des films et de suivre les tendan
 ## 📦 Installation  
 
 1. **Cloner le dépôt**  
-    git clone https://github.com/aminelns260/movie-search-app.git
+    git clone https://github.com/aminelns260/movie-search-app.git  
     cd movie-search-app
 
 2. **Installer les dépendances** 
